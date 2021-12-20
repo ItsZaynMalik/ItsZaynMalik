@@ -1,4 +1,4 @@
-# Hi There, I Am Dhananjay[Zayn]!
+# Hi There, I Am Zayn!
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=ItsZaynMalik&show_icons=true&theme=radical"/>
 
