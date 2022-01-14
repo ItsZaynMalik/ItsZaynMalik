@@ -13,5 +13,3 @@
 **I Am An Student,Bot Developer**
 
 **Am Pretty Good At Java Script**
-
-**[My Project Gipsy Music](https://dsc.gg/gipsymusic)**
