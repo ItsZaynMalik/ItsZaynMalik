@@ -10,6 +10,9 @@
 
 
 
-**I Am An Student,Bot Developer**
+<p align="center"><br>
+  <a href="https://github.com/ItsZaynMalik">
+    <img src="https://lanyard.cnrad.dev/api/767627938433597450"/>
+     </a>
+</p>
 
-**Am Pretty Good At Java Script**
