@@ -2,10 +2,5 @@
 
 
 
-
-<p align="center"><br>
-  <a href="https://github.com/ItsZaynMalik">
-    <img src="https://lanyard.cnrad.dev/api/767627938433597450"/>
-     </a>
-</p>
+![](https://discord.c99.nl/widget/theme-1/767627938433597450.png)  
 
